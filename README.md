@@ -2,21 +2,6 @@
 
 ![banner](./banner.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-spadaro-905712337/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GuilhermeLimaSpadaro)
-
-</div>
-
----
-
-Desenvolvedor Backend Java.
-
-Experiência com APIs REST, JPA/Hibernate, PostgreSQL, arquitetura MVC e bancos de dados relacionais.
-
-Atualmente desenvolvo projetos práticos voltados para arquitetura backend, persistência de dados e boas práticas de desenvolvimento.
-
----
-
 ## Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -27,6 +12,18 @@ Atualmente desenvolvo projetos práticos voltados para arquitetura backend, pers
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-spadaro-905712337/)
+
+</div>
+
+---
+
+Desenvolvedor Backend Java.
+
+Experiência com APIs REST, JPA/Hibernate, PostgreSQL, arquitetura MVC e bancos de dados relacionais.
+
+Atualmente desenvolvo projetos práticos voltados para arquitetura backend, persistência de dados e boas práticas de desenvolvimento.
 
 ---
 
