@@ -19,9 +19,9 @@
 
 ---
 
-Desenvolvedor Backend Java.
+Desenvolvedor Backend
 
-Experiência com APIs REST, JPA/Hibernate, PostgreSQL, arquitetura MVC e bancos de dados relacionais.
+Experiência com Java, APIs REST, PostgreSQL, MongoDB, arquitetura MVC e bancos de dados relacionais e não relacionais.
 
 Atualmente desenvolvo projetos práticos voltados para arquitetura backend, persistência de dados e boas práticas de desenvolvimento.
 
