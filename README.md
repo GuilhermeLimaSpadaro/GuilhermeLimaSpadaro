@@ -29,7 +29,7 @@ Tech - **Java, APIs REST, PostgreSQL, MongoDB, arquitetura MVC e bancos de dados
 
 **[Order Management API](https://github.com/GuilhermeLimaSpadaro/order-management-api)**
 API REST para gerenciamento de pedidos, produtos, usuários e categorias. Relacionamentos JPA complexos, chave composta com `@EmbeddedId`, enum de status e deploy em produção.
-`Java 21` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `Railway` `Maven`
+`Java 21` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `Maven`
 
 **[Blog API](https://github.com/GuilhermeLimaSpadaro/blog-api)** 
 API REST para gerenciamento de uma plataforma de blog, com cadastro de usuários, criação de posts, comentários e controle de relacionamentos entre documentos. Desenvolvida com Java, Spring Boot, Maven e MongoDB.
