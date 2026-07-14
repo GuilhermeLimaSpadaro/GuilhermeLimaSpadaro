@@ -23,8 +23,6 @@
 
 Tech - **Java, APIs REST, PostgreSQL, MongoDB, arquitetura MVC e bancos de dados relacionais e não relacionais.**
 
-Atualmente desenvolvo projetos práticos voltados para arquitetura backend, persistência de dados e boas práticas de desenvolvimento.
-
 ---
 
 ## Projetos
