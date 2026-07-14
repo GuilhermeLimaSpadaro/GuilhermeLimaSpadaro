@@ -31,13 +31,11 @@ Atualmente desenvolvo projetos práticos voltados para arquitetura backend, pers
 
 **[Order Management API](https://github.com/GuilhermeLimaSpadaro/order-management-api)**
 API REST para gerenciamento de pedidos, produtos, usuários e categorias. Relacionamentos JPA complexos, chave composta com `@EmbeddedId`, enum de status e deploy em produção.
-`Java 17` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `Railway`
+`Java 21` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `Railway` `Maven`
 
----
-
-**[Vehicle Rental API](https://github.com/GuilhermeLimaSpadaro/vehicle-rental-api)**
-Sistema de locação de veículos com controle de disponibilidade, cálculo de preço por período e gestão de pagamentos.
-`Java 17` `Spring Boot` `JPA/Hibernate`
+**[Blog API](https://github.com/GuilhermeLimaSpadaro/blog-api)** 
+API REST para gerenciamento de uma plataforma de blog, com cadastro de usuários, criação de posts, comentários e controle de relacionamentos entre documentos. Desenvolvida com Java, Spring Boot, Maven e MongoDB.
+`Java 21` `Spring Boot` `Spring Data MongoDB` `MongoDB` `Maven`
 
 <div align="center">
 
