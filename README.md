@@ -22,9 +22,9 @@
 
 ## Sobre mim
 
-Desenvolvedor Backend em transição de carreira para tecnologia, com foco em **Java e Spring Boot**. Tenho experiência prática construindo APIs REST completas — com autenticação, persistência em bancos relacionais e não relacionais, tratamento de erros e boas práticas de arquitetura em camadas (Controller, Service, Repository, DTO).
+Desenvolvedor Backend com foco em **Java e Spring Boot**. Tenho experiência prática construindo APIs REST completas — com persistência em bancos relacionais e não relacionais, tratamento de erros e boas práticas de arquitetura em camadas (Controller, Service, Repository, DTO).
 
-Atualmente estudando Análise e Desenvolvimento de Sistemas, aplicando cada conceito diretamente nos projetos abaixo. Busco minha primeira oportunidade como **Desenvolvedor Backend Java Júnior/Estagiário**, com interesse em continuar evoluindo em arquitetura de sistemas e boas práticas de engenharia de software.
+Estudando Análise e Desenvolvimento de Sistemas, aplicando cada conceito diretamente nos projetos abaixo. Interessado em oportunidades como **Desenvolvedor Backend Java**, com foco em evoluir continuamente em arquitetura de sistemas e boas práticas de engenharia de software.
 
 ---
 
