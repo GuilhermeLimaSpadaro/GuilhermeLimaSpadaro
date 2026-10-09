@@ -30,6 +30,12 @@ Estudando Análise e Desenvolvimento de Sistemas, aplicando cada conceito direta
 
 ## 🚀 Projetos em destaque
 
+### [📝 Blog API](https://github.com/GuilhermeLimaSpadaro/blog-api)
+
+API REST para uma plataforma de blog, com cadastro de usuários, criação de posts, comentários e controle de relacionamentos entre documentos.
+
+`Java 21` `Spring Boot` `Spring Data MongoDB` `MongoDB` `Maven`
+
 ### [🔐 Spring Security JWT](https://github.com/GuilhermeLimaSpadaro/spring-security-JWT)
 
 API REST com autenticação e autorização usando Spring Security. Login via Basic Auth, geração de token JWT assinado com chaves RSA e proteção de rotas privadas via Bearer token.
@@ -47,12 +53,6 @@ Projeto de laboratório para estudo e prática de recursos do Spring Boot.
 API REST para gerenciamento de pedidos, produtos, usuários e categorias. Relacionamentos JPA complexos, chave composta com `@EmbeddedId` e enum de status.
 
 `Java 21` `Spring Boot` `JPA/Hibernate` `PostgreSQL` `Maven`
-
-### [📝 Blog API](https://github.com/GuilhermeLimaSpadaro/blog-api)
-
-API REST para uma plataforma de blog, com cadastro de usuários, criação de posts, comentários e controle de relacionamentos entre documentos.
-
-`Java 21` `Spring Boot` `Spring Data MongoDB` `MongoDB` `Maven`
 
 ---
 
